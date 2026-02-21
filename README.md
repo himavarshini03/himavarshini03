@@ -43,4 +43,4 @@ Developed a secure web-based application to encode and decode hidden messages in
 
 📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/hima-varshini-allam
+LinkedIn: https://www.linkedin.com/in/himavarshini03
