@@ -42,7 +42,7 @@ Implemented Pix2Pix GAN with U-Net architecture for grayscale to color image con
 Developed a secure web-based application to encode and decode hidden messages in images.
 
 🔹 Face Detection + Tracking
-Created a Face detection and tracking system using YOLOv8 object detection model.
+Created a Face detection and tracking system using YOLOv8 object detection and ArcFace recognition models.
 
 📫 Connect With Me
 
