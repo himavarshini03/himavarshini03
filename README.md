@@ -41,6 +41,9 @@ Implemented Pix2Pix GAN with U-Net architecture for grayscale to color image con
 🔹 PixelPeek – Image Steganography
 Developed a secure web-based application to encode and decode hidden messages in images.
 
+🔹 Face Detection + Tracking
+Created a Face detection and tracking system using YOLOv8 object detection model.
+
 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/himavarshini03
